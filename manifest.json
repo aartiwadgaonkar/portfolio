@@ -3,7 +3,7 @@
     "short_name": "PORTFOLIO",
     "description": "Hey I'm Aarti wadgaonkar . I have 1 year experiance in frontend developer ",
     "orientation": "portrait",
-    "start_url": "/",
+    "start_url": "/portfolio",
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
